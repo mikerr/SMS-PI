@@ -18,8 +18,8 @@ import sys		   # System Function
 
 # Arguments Taken from command line
 
-to = sys.argv[1]
-message = sys.argv[2]
+to = "myphoneno"
+message = sys.argv[1]
 hash = "YOURHASH"
 
 
